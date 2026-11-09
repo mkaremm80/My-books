@@ -1,10 +1,10 @@
 # Information Theory Books
 
-Books on information theory and channel coding, with companion MATLAB and Python code.
+Books on information theory, channel coding and network security, with companion MATLAB and Python code.
 
 By **Mahmoud Abdelaziz** — Associate Professor, Avionics Department, MTC; IEEE Senior Member.
 
-Live showcase: https://mkaremm80.github.io/information-theory-books/
+Live showcase: https://mkaremm80.github.io/My-books/
 
 
 ## ▶ Watch: 5G NR LDPC in 60 seconds
@@ -43,8 +43,11 @@ Start with BEC(0.5): at N = 1024, **34% of bit-channels are almost perfect and 3
 | Information Theory: Compression | [books/information-theory/Information_Theory_Compression_v2.pdf](books/information-theory/Information_Theory_Compression_v2.pdf) | [code/information-theory/](code/information-theory/) |
 | LDPC Codes: From Zero to Expert | [books/ldpc-codes/LDPC_Codes_From_Zero_to_Expert_v2.pdf](books/ldpc-codes/LDPC_Codes_From_Zero_to_Expert_v2.pdf) | [code/ldpc-codes/](code/ldpc-codes/) |
 | Polar Codes: From Zero to Expert | [books/polar-codes/Polar_Codes_From_Zero_to_Expert_v2.pdf](books/polar-codes/Polar_Codes_From_Zero_to_Expert_v2.pdf) | [code/polar-codes/](code/polar-codes/) |
+| Network Security: From Zero to Expert | [books/network-security/Network_Security_Zero_to_Expert_v1.pdf](books/network-security/Network_Security_Zero_to_Expert_v1.pdf) | Python labs inside the book |
 
 For Polar Codes, version 2 (October 2026, 156 pages) is now one volume with block diagrams and Appendix D (MATLAB) included inside it, so there is no separate MATLAB appendix file. The first version (v1) and a draft of chapters 1–9 are also in the book folder. The Information Theory book folder still includes its MATLAB appendix.
+
+Network Security: From Zero to Expert, version 1 (November 2026, 80 pages) is a step-by-step booklet with diagrams, worked examples and Python labs for undergraduate students — 12 chapters plus a capstone project. Its Python labs are inside the book; there is no separate code folder for it.
 
 ## Code
 
